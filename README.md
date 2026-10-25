@@ -95,6 +95,11 @@ You must have run your osu! client at least once.
 
 <a href="https://github.com/Doruat/lazer-beatmap-downloader/releases/latest">Download the latest release here</a>
 
+
+> [!TIP]
+> On Linux, consider using a download folder excluded from file indexing to avoid performance issues caused by services like GNOME Localsearch.
+>
+
 #### Building yourself (for devs)
 
 Please follow these steps to build the project yourself:
