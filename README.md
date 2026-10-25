@@ -97,9 +97,9 @@ You must have run your osu! client at least once.
 
 
 > [!TIP]
-> On Linux, consider using a download folder excluded from file indexing to avoid performance issues caused by indexing services such as GNOME Localsearch.
->
-> **GNOME (Nautilus):** Create an empty `.trackerignore` or `.nomedia` file in the folder you want to exclude from being indexed.
+> On Linux, exclude your download folder from indexing to avoid performance issues (e.g., GNOME Localsearch).
+> * **Nautilus:** Create an empty `.trackerignore` or `.nomedia` file in the folder.
+> * **Dolphin:** Exclude the folder via Settings.
 
 #### Building yourself (for devs)
 
